@@ -1,0 +1,40 @@
+body {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+header {
+    background-color: #562EFF;
+    padding: 20px 0;
+}
+
+nav {
+    max-width: 870px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#nav-part-1 {
+    display: flex;
+    align-items: center;
+}
+
+#nav-part-1 img {
+    margin-right: 15px;
+}
+
+#nav-part-1 h3 {
+    color: white;
+}
+
+#nav-part-2 {
+    display: flex;
+    align-items: center;
+}
+
+#nav-part-2 a {
+    text-decoration: none;
+    color: white;
+    margin-right: 30px;
+}
